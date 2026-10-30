@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/muneyuki",
  "yomi": "むねゆきあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安前期",
+  "author": "源宗于（?〜939）",
+  "desc": "三十六歌仙の一人、源宗于の小さな家集。恋の歌や寛平の御時の歌合の歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -500,6 +505,6 @@
   "poems": 40,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
